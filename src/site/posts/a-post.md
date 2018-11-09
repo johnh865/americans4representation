@@ -3,18 +3,4 @@ title: Website is live!
 date: 2018-11-09
 ---
 
-There's not much here in the sample post page. Better get to work.
-
-The common front-matter data for all of the files in the posts section are abstracted into a `posts.json` file so that we don't need to repeat that on every file. Handy.
-
-It looks like this:
-
-```
-{
-  "layout" : "layouts/post.md",
-  "tags" : "post",
-  "templateEngineOverride": "njk,md"
-}
-```
-
-
+The AFR has created a new website!
