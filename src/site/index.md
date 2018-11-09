@@ -78,7 +78,7 @@ The AFR seeks to create the best possible American democracy. The AFR shall test
 
 ## Creating a New Consensus
 
-We believe that special interests are largely to blame for the fracture of American society. Americans are not so different from one another. Yet mass media and partisan talking heads pit father against son, mother against daughter, and neighbor against neighbor.
+Americans are not so different from one another. Yet mass media and partisan talking heads pit father against son, mother against daughter, and neighbor against neighbor.
 
 The AFR seeks to construct a new political forum where people can come together to rationally discuss our interests and make the necessary compromises to make a better society. At the very least, we all need to reach a new understanding and trust of each other, even if we cannot agree to the details of policy and ideology. 
 
