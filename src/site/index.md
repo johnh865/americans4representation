@@ -19,7 +19,7 @@ The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned a
 
 # Grassroots Driven Advocacy
 
-## Trustworthy Advocacy
+## Empowering You
 
 We have the ability to make a difference by voting and talking with our congressmen. But our individual efforts are not enough. To win battles, allies must organize into a cohesive, united coalition. To win in politics, we must:
 
@@ -28,7 +28,7 @@ We have the ability to make a difference by voting and talking with our congress
 - **Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.**
 
 
-This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a cooperatively owned political group. 
+This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a *cooperatively owned political group.*
 
 ## Cooperative Ownership
 
