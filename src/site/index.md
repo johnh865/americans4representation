@@ -67,11 +67,11 @@ The two-party system has also produced decades of political stalemate, polarizat
 
 Political scientists have devised many innovative ideas that could be used to repair our democracy and advance 3rd party participation. These include:
 
-- **Proportional representation** - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries.
+- **[Proportional representation](https://en.wikipedia.org/wiki/Proportional_representation)** - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries.
 
-- **Score based voting** - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
+- **[Score based voting](https://en.wikipedia.org/wiki/Score_voting)** - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
 
-- **Delegative “liquid” democracy** - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
+- **[Delegative “liquid” democracy](https://en.wikipedia.org/wiki/Delegative_democracy)** - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
 
 
 The AFR seeks to create the best possible American democracy. The AFR shall test and validate potential reforms on its own internal election system. After experimentation, validation, and approval by our members, the AFR will then lobby government to implement these new reforms.  
