@@ -6,10 +6,6 @@ layout: layouts/base.njk
 
 Please call or email to join our group! 
 
-Email:
+* Email: <americans4representation@gmail.com>
 
-* <americans4representation@gmail.com>
-
-Phone:
-
-* 979-464-9734
+* Phone: 979-464-9734
