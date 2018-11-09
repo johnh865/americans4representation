@@ -17,9 +17,9 @@ The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned a
 - We can make American government better - more responsive, more representative, and more satisfactory for everyone.
 
 
-## Grassroots Driven Advocacy
+# Grassroots Driven Advocacy
 
-### Trustworthy Advocacy
+## Trustworthy Advocacy
 
 We have the ability to make a difference by voting and talking with our congressmen. But our individual efforts are not enough. To win battles, allies must organize into a cohesive, united coalition. To win in politics, we must:
 
@@ -30,13 +30,13 @@ We have the ability to make a difference by voting and talking with our congress
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a cooperatively owned political group. 
 
-### Cooperative Ownership
+## Cooperative Ownership
 
 The Americans for Representation (AFR) is a cooperatively owned political group that seeks to be a trustworthy advocate for all Americans. In order to create trust, the AFR gives its members **democratic ownership** of the organization.
 
 This means that you and other members legally own the AFR rather than some private benefactor. This means that all members elect, hire, and fire the leadership at will. Electoral power ensures that your interests will be advocated for rather than the interests of the leadership. Membership will also be open to all citizens who wish to participate. With cooperative ownership, you will drive the organization’s goals from the bottom up. 
 
-### AFR Member Services
+## AFR Member Services
 
 The AFR will provide several services for its members. It will: 
 
@@ -54,15 +54,15 @@ The AFR will not exclusively support one party. The AFR will choose its support 
 
 
 
-## Reforming Government
+# Reforming Government
 
-### Disrupting the Two Party System
+## Disrupting the Two Party System
 
 Americans are dissatisfied with both parties and must resort to picking the lesser of two evils for every election. Gerrymandering, convoluted party primaries, and the exorbitant cost of political campaigning all work to disempower the working and professional class. The AFR will work to eliminate these barriers to participation. 
 
 The two-party system has also produced decades of political stalemate, polarization and voter dissatisfaction. Many political scientists believe that this stalemate is an inevitable consequence of our winner-takes-all election system. However, solutions have already been developed to fix these problems.
 
-### Electoral Reform
+## Electoral Reform
 
 Political scientists have devised many innovative ideas that could be used to repair our democracy and advance 3rd party participation. These include:
 
@@ -75,7 +75,7 @@ Political scientists have devised many innovative ideas that could be used to re
 
 The AFR seeks to create the best possible American democracy. The AFR shall test and validate potential reforms on its own internal election system. After experimentation, validation, and approval by our members, the AFR will then lobby government to implement these new reforms.  
 
-### Creating a New Consensus
+## Creating a New Consensus
 
 We believe that special interests are largely to blame for the fracture of American society. Americans are not so different from one another. Yet mass media and partisan talking heads pit father against son, mother against daughter, and neighbor against neighbor.
 
@@ -83,7 +83,7 @@ The AFR seeks to construct a new political forum where people can come together 
 
 Only with a new consensus can we can finally enact the necessary reforms that our current politicians cannot.  
 
-## A Call for Membership 
+# A Call for Membership 
 
 We want liberals. We want conservatives. We want libertarians. We want socialists. We want the selfish and the selfless. We want to empower everyone as a rising tide lifts all boats. We want your **active participation**. If you think America can do better, please join our group!
 
