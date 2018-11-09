@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Americans for Representation
+subtitle: A Cooperatively Owned Advocacy Group
 layout: layouts/base.njk
 ---
 
@@ -23,8 +23,10 @@ The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned a
 
 We have the ability to make a difference by voting and talking with our congressmen. But our individual efforts are not enough. To win battles, allies must organize into a cohesive, united coalition. To win in politics, we must:
 
-1. **Organize together to strategically vote in unison at all levels of local, state, and federal government.**
-2. **Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.**
+- **Organize together to strategically vote in unison at all levels of local, state, and federal government.**
+
+- **Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.**
+
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a cooperatively owned political group. 
 
@@ -38,13 +40,13 @@ This means that you and other members legally own the AFR rather than some priva
 
 The AFR will provide several services for its members. It will: 
 
-1. **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.</li>
+- **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.</li>
 
-2. **Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government.
+- **Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government.
 
-3. **Provide members actionable news & information** on issues and strategic voting in order to maximize voter influence.
+- **Provide members actionable news & information** on issues and strategic voting in order to maximize voter influence.
 
-4. **Nominate our members as candidates** in Republican and Democratic primaries.
+- **Nominate our members as candidates** in Republican and Democratic primaries.
 
 The AFR will not exclusively support one party. The AFR will choose its support strategically with the goal of maximizing our members’ political power and influence. 
 
@@ -64,11 +66,12 @@ The two-party system has also produced decades of political stalemate, polarizat
 
 Political scientists have devised many innovative ideas that could be used to repair our democracy and advance 3rd party participation. These include:
 
-1. **Proportional representation** - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries.
+- **Proportional representation** - Representatives are elected to congress based on vote proportion rather than arbitrary district boundaries.
 
-2. **Score based voting** - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
+- **Score based voting** - an alternative voting system where voters score each candidate, and the candidate with the greatest score wins.
 
-3. **Delegative “liquid” democracy** - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
+- **Delegative “liquid” democracy** - A mode of governance where voters can choose to delegate out their votes to representatives. Or, voters can choose to directly vote. In other words, you can choose whether you want to directly participate or you want to delegate out your authority.
+
 
 The AFR seeks to create the best possible American democracy. The AFR shall test and validate potential reforms on its own internal election system. After experimentation, validation, and approval by our members, the AFR will then lobby government to implement these new reforms.  
 
@@ -80,7 +83,7 @@ The AFR seeks to construct a new political forum where people can come together 
 
 Only with a new consensus can we can finally enact the necessary reforms that our current politicians cannot.  
 
-### A Call for Membership 
+## A Call for Membership 
 
 We want liberals. We want conservatives. We want libertarians. We want socialists. We want the selfish and the selfless. We want to empower everyone as a rising tide lifts all boats. We want your **active participation**. If you think America can do better, please join our group!
 
