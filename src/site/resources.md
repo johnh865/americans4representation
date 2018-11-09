@@ -36,4 +36,4 @@ layout: layouts/base.njk
 
 * [Vote Matrix](http://www.votematrix.com/) - Interesting for-profit website that also tries to help you construct your ideal ballot. 
 
-* [CrowdPAC](https://www.crowdpac.com/) - A left-leaning website that tries to outsource political campaigns. 
+* [CrowdPAC](https://www.crowdpac.com/) - A left-leaning website that tries to crowd-source political campaigns. 
