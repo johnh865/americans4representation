@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 ## Voting Reform Groups
 
-* [The Center for Range Voting](www.rangevoting.org) - Range/Score-based voting advocacy group
+* [The Center for Range Voting](https://www.rangevoting.org) - Range/Score-based voting advocacy group
 * [The Center for Election Science](https://electology.org/) - Approval voting advocacy group
 * [Counted](https://www.counted.vote/) - STAR (score voting then automatic runoff) voting advocacy group
 * [Fairvote](https://www.fairvote.org/) - Ranked Choice Voting (Instant runoff) advocacy group
