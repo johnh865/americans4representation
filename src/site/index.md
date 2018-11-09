@@ -15,6 +15,7 @@ The **Americans For Representation (AFR)** is a nonprofit, cooperatively owned a
 - We should strive for political equality for all Americans.
 - The barriers to democratic participation should be as low as possible.
 - We can make American government better - more responsive, more representative, and more satisfactory for everyone.
+- We can empower all Americans through education and strategic cooperation. 
 
 
 # Grassroots Driven Advocacy
