@@ -14,7 +14,7 @@ The **Americans For Representation (AFR)** is a nonprofit, cooperatively owned a
 
 - We should strive for political equality for all Americans.
 - The barriers to democratic participation should be as low as possible.
-- We can make American government better - more responsive, more representative, and more satisfactory for everyone.
+- We can make American government better
 - We can empower all Americans through education and strategic cooperation. 
 
 
@@ -41,7 +41,7 @@ This means that you and other members legally own the AFR rather than some priva
 
 The AFR will provide several services for its members. It will: 
 
-- **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.</li>
+- **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.
 
 - **Become a lobbying firm.** The AFR will fight fire-with-fire and arm Americans with the same tools that special interests have used to corrupt our government.
 
