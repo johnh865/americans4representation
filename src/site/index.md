@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## Americans For Representation
 
-We all know something is wrong with government. The Economist calls our government a [“flawed democracy”](https://www.eiu.com/topic/democracy-index). According to [Gallup, “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector”.](https://news.gallup.com/opinion/polling-matters/211892/americans-budget-cuts.aspx) Mechanisms such as money in politics, the electoral college, and gerrymandering have corrupted our democracy. But what can we do to fix America? 
+We all know something is wrong with government. The Economist calls our government a [“flawed democracy”](https://www.eiu.com/topic/democracy-index). According to [Gallup](https://news.gallup.com/opinion/polling-matters/211892/americans-budget-cuts.aspx), “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector”. Mechanisms such as money in politics, the electoral college, and [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) have corrupted our democracy. But what can we do to fix America? 
 
 The **Americans For Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
@@ -32,7 +32,7 @@ This is the same strategy special interests use to lobby our government. It’s 
 
 ## Cooperative Ownership
 
-The Americans for Representation (AFR) is a cooperatively owned political group that seeks to be a trustworthy advocate for all Americans. In order to create trust, the AFR gives its members **democratic ownership** of the organization.
+The Americans for Representation (AFR) is a cooperatively owned political group that seeks to be a trustworthy advocate for all Americans. In order to create trust, the AFR gives its members [**democratic ownership**](https://en.wikipedia.org/wiki/Cooperative) of the organization.
 
 This means that you and other members legally own the AFR rather than some private benefactor. This means that all members elect, hire, and fire the leadership at will. Electoral power ensures that your interests will be advocated for rather than the interests of the leadership. Membership will also be open to all citizens who wish to participate. With cooperative ownership, you will drive the organization’s goals from the bottom up. 
 
