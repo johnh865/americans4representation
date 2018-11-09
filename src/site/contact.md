@@ -18,6 +18,5 @@ Please call or email to join our group!
 
 ## AFR Houston Chapter
 
-We are looking to grow a Houston-based coalition to help Houstonians take control over Houston, Texas, and American politics. 
-
+We are looking to grow a Houston-based coalition. Houstonians, if you want to make a difference, please consider joining our group!
 
