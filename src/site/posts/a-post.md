@@ -1,6 +1,6 @@
 ---
-title: A post page
-date: 2018-03-21
+title: Website is live!
+date: 2018-11-09
 ---
 
 There's not much here in the sample post page. Better get to work.
