@@ -35,3 +35,5 @@ layout: layouts/base.njk
 * [Vote Smart](https://votesmart.org/) - This website attempts to help people find which candidates they agree with the most. 
 
 * [Vote Matrix](http://www.votematrix.com/) - Interesting for-profit website that also tries to help you construct your ideal ballot. 
+
+* [CrowdPAC](https://www.crowdpac.com/) - A left-leaning website that tries to outsource political campaigns. 
