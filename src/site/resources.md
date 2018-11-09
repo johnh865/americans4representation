@@ -26,6 +26,6 @@ layout: layouts/base.njk
 * deKieffer, Donald. **The Citizens Guide to Lobbying Congress**. - Book on how to become a lobbyist. 
 * Richan, Willard. **Lobbying for Social Change** - Another book on how to be an effective lobbyist. 
   - Some interesting quotes:
-    - "Personal commitment to a cause is one of the most underestimated resources in advocacy"
-    - "Lobbying is not a solo activity. Make allies. This may require balancing your agenda against items in someone else's.
+    - *"Personal commitment to a cause is one of the most underestimated resources in advocacy."*
+    - *"Lobbying is not a solo activity. Make allies. This may require balancing your agenda against items in someone else's."*
 * Mason, Lilliana. **Uncivil Agreement: How Politics Became Our Identity** - I haven't read this one yet, but here Lilliana argues that politics is driven less about actual policy and ideology but rather about "identity". 
