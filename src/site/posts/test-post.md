@@ -1,6 +1,6 @@
 ---
 title: A test post
-date: 2018-11-9
+date: 2018-11-09
 ---
 
 Just a test
