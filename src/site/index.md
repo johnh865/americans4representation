@@ -12,9 +12,9 @@ We all know something is wrong with government. The Economist calls our governme
 The **Americans for Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
 
-1. We should strive for political equality for all Americans.
-2. The barriers to democratic participation should be as low as possible.
-3. We can make American government better - more responsive, more representative, and more satisfactory for everyone.
+- We should strive for political equality for all Americans.
+- The barriers to democratic participation should be as low as possible.
+- We can make American government better - more responsive, more representative, and more satisfactory for everyone.
 
 
 ## Grassroots Driven Advocacy
