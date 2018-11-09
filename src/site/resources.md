@@ -15,7 +15,7 @@ layout: layouts/base.njk
 
 
 ## Democratic Advocacy Groups
-* [https://www.bridgealliance.us/] - Interesting network of political groups that are trying to increase Democratic participation. 
+* [The Bridge Alliance](https://www.bridgealliance.us/) - Interesting network of political groups that are trying to increase Democratic participation. 
 
 ## Voting Reform Groups
 
