@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## Americans For Representation
 
-We all know something is wrong with government. The Economist calls our government a “flawed democracy”. According to Gallup, “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector”. Mechanisms such as money in politics, the electoral college, and gerrymandering have corrupted our democracy. But what can we do to fix America? 
+We all know something is wrong with government. The Economist calls our government a [“flawed democracy”](https://www.eiu.com/topic/democracy-index). According to [Gallup, “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector”.](https://news.gallup.com/opinion/polling-matters/211892/americans-budget-cuts.aspx) Mechanisms such as money in politics, the electoral college, and gerrymandering have corrupted our democracy. But what can we do to fix America? 
 
 The **Americans For Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
