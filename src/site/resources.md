@@ -19,7 +19,8 @@ layout: layouts/base.njk
 
 ## Books
 
-* deKieffer, Donald. **The Citizens Guide to Lobbying Congress**. - Book on how to become a lobbyist. 
+* deKieffer, Donald. **The Citizens Guide to Lobbying Congress**. - Book on how to become a lobbyist.
+  - Demonstrations are rarely effective. Get your members off the streets and into the halls of Congress!
 * Richan, Willard. **Lobbying for Social Change** - Another book on how to be an effective lobbyist. 
   - Some interesting quotes:
     - *"Personal commitment to a cause is one of the most underestimated resources in advocacy."*
