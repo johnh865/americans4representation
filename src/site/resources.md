@@ -32,6 +32,8 @@ layout: layouts/base.njk
 
 * [Open Secrets](https://www.opensecrets.org) - Evil George Soros funded project that tracks PAC spending, political spending, and campaign money.  
 
+* [Pro publica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Find out financial information about nonprofit organizations. 
+
 * [Vote Smart](https://votesmart.org/) - This website attempts to help people find which candidates they agree with the most. 
 
 * [Vote Matrix](http://www.votematrix.com/) - Interesting for-profit website that also tries to help you construct your ideal ballot. 
