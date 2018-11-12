@@ -61,7 +61,7 @@ The AFR will not exclusively support one party. The AFR will choose its support 
 
 Americans are dissatisfied with both parties and must resort to picking the lesser of two evils for every election. Gerrymandering, convoluted party primaries, and the exorbitant cost of political campaigning all work to disempower the working and professional class. The AFR will work to eliminate these barriers to participation. 
 
-The two-party system has also produced decades of political stalemate, polarization and voter dissatisfaction. Many political scientists believe that this stalemate is an inevitable consequence of our winner-takes-all election system. However, solutions have already been developed to fix these problems.
+The two-party system has also produced decades of political stalemate, polarization and voter dissatisfaction. Many political scientists believe that this stalemate is an [inevitable consequence](https://en.wikipedia.org/wiki/Duverger%27s_law) of our winner-takes-all election system. However, solutions have already been developed to fix these problems.
 
 ## Electoral Reform
 
