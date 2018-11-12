@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## Americans For Representation
 
-We know something is wrong with government. The Economist calls our government a [“flawed democracy”](https://www.eiu.com/topic/democracy-index). According to [Gallup](https://news.gallup.com/opinion/polling-matters/211892/americans-budget-cuts.aspx), “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector”. Mechanisms such as money in politics, the electoral college, and [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) have corrupted our democracy. But what can we do to fix America? 
+We know something is wrong with government. The Economist calls our government a [“flawed democracy”](https://www.eiu.com/topic/democracy-index). According to [Gallup](https://news.gallup.com/opinion/polling-matters/211892/americans-budget-cuts.aspx), “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector.” Mechanisms such as money in politics, the electoral college, and [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) have corrupted our democracy. But what can we do to fix America? 
 
 The **Americans For Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
 
@@ -61,7 +61,7 @@ The AFR will not exclusively support one party. The AFR will choose its support 
 
 Americans are dissatisfied with both parties and must resort to picking the lesser of two evils for every election. Gerrymandering, convoluted party primaries, and the exorbitant cost of political campaigning all work to disempower the working and professional class. The AFR will work to eliminate these barriers to participation. 
 
-The two-party system has also produced decades of political stalemate, polarization and voter dissatisfaction. Many political scientists believe that this stalemate is an [inevitable consequence](https://en.wikipedia.org/wiki/Duverger%27s_law) of our winner-takes-all election system. However, solutions have already been developed to fix these problems.
+The two-party system has also produced decades of political stalemate, polarization and voter dissatisfaction. Many political scientists believe that this stalemate is a [consequence](https://en.wikipedia.org/wiki/Duverger%27s_law) of our winner-takes-all election system. However, solutions have already been developed to fix these problems.
 
 ## Electoral Reform
 
