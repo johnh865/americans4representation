@@ -51,7 +51,7 @@ The AFR will provide several services for its members. It will:
 
 The AFR will not exclusively support one party. The AFR will choose its support strategically with the goal of maximizing our members’ political power and influence. 
 
-<img src="/images/AFR_structure.png" alt="structure" width="600"/>
+<img src="/images/AFR_structure.png" alt="structure" style="width: 600px; max-width: 100%" />
 
 
 
