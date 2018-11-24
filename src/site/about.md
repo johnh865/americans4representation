@@ -11,4 +11,4 @@ John Huang is a mechanical engineer working in Houston, TX. He got his masters d
 
 ### Lorra Garey
 
-Ms. Lorra Garey is a fifth-year doctoral candidate in the clinical 
+Ms. Lorra Garey is a doctoral candidate in the clinical psychology program at the University of Houston. She completed her B.A. in psychology at The University of Texas in 2009. 
