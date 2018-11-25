@@ -40,7 +40,7 @@ What you have to do is a minimal amount of participation - voting en masse when 
 
 ## *How can the AFR succeed?*
 
-There's of course no guarantees that this project will work out. **The only way for AFR to succeed is if people believe in its goals enough to join, and virulently spread its message like a pyramid scheme**. But unlike a pyramid scheme, if the AFR reaches critical mass, the end product is a giant coalition of unified voters with the power to take out any Congressman they desire and influence them to support any policy we desire. Success is contingent on a large membership base. 
+There's of course no guarantees for success. **The only way for AFR to succeed is if people believe in its goals enough to join, and virulently spread its message like a pyramid scheme**. But unlike a pyramid scheme, if the AFR reaches critical mass, the end product is a giant coalition of unified voters with the power to take out any Congressman they desire and influence them to support any policy we desire. Success is contingent on a large membership base. 
 
 ## *New voting reforms sound too risky*
 
