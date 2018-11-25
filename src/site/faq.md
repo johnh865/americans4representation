@@ -44,4 +44,4 @@ There's of course no guarantees that this project will work out. **The only way 
 
 ## *New voting reforms sound too risky*
 
-Nobody can predict exactly how new voting reforms would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. 
+Indeed, nobody can predict exactly how new voting reforms would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. 
