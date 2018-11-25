@@ -21,9 +21,7 @@ So how can we get alleged "political opponents" to agree with each other? Well, 
 
 Lots of research suggests the same. Most Americans tend not to be "ideologically motivated". Instead we are more "Group Identity" motivated. If we want to construct a bipartisan bridge, we need to construct a new group identity. This construction requires getting different folks of different ideologies into the same room, so we can escape our social media bubbles. This construction requires service or volunteerism to force different people together.
 
-Bridging the partisan divide is of course a tall order, and the AFR is unfortunately not a cure-all panacea. If nothing else, the I believe the AFR needs to be tried before it should be dismissed. 
-
-Finally, technology can aid us in creating consensus. Winner-take-all voting systems are not the only way to vote. Systems such as score voting, ranked-choice voting, and approval voting work to construct a superior consensus and promote more moderate viewpoints. 
+Technology can also aid us in creating consensus. Winner-take-all voting systems are not the only way to vote. Systems such as score voting, ranked-choice voting, and approval voting work to construct a superior consensus and promote more moderate viewpoints. 
 
 ## *I don't have time to Participate.*
 
