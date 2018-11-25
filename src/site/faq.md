@@ -46,3 +46,7 @@ What you have to do is a minimal amount of participation - writing letters to yo
 ### *How can the AFR succeed?*
 
 There's of course no guarantees that this project will work out. **The only way for AFR to succeed is if people believe in its goals enough to join, and virulently spread its message like a pyramid scheme**. But unlike a pyramid scheme, if the AFR reaches critical mass, the end product is a giant coalition of unified voters with the power to take out any Congressman they desire and influence them to support any policy we desire. Success is contingent on a large membership base. 
+
+### *New voting technology such as delegative democracy and score voting sounds risky*
+
+Indeed nobody can predict exactly how these systems would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. 
