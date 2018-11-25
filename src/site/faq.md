@@ -13,7 +13,7 @@ Actually there have been many similar groups historically. For example, the poli
 Moreover, repeatedly doing the same thing over and over again without achieving your goals is insanity. It's time for people to try new political strategy when the old methods have failed again and again. The special interest groups, the lobbyists, and the politics of today have gotten us to the highest levels of government dissatisfaction. We need a new way of organizing people together, and if it's not the AFR, then it's going to have to be something else new and different. 
 
 
-## *How can you get a bunch of different people to agree on anything???.*
+## *How can you get a bunch of different people to agree on anything?*
 
 This group is founded on the hope that yes, Democracy can work. The alternative is the world we live in now, where big business seize more and more power, and corporate media drives "outrage culture" for the sake of increasing advertising revenue. It is truly a dark day if our group cannot function and Democracy fails. If Democracy fails on the small scale, how could Democracy hope to function in the nation-wide scale? I believe before we fully surrender our power to big business and multinational conglomerates, we need to try democracy first. 
 
@@ -44,4 +44,4 @@ There's of course no guarantees for success. **The only way for AFR to succeed i
 
 ## *New voting reforms sound too risky*
 
-Indeed, nobody can predict exactly how new voting reforms would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. 
+Indeed, nobody can predict exactly how new voting reforms would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. Reforms will be deployed on the organizational level first to validate the reform's effectiveness.
