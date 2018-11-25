@@ -27,7 +27,7 @@ Technology can also aid us in creating consensus. Winner-take-all voting systems
 
 A primary objective of the AFR is to **minimize the time needed to become politically informed and maximize your political impact**. Technology such as proxy voting or ["liquid" delegative voting systems](https://en.wikipedia.org/wiki/Delegative_democracy) allow you to choose (and hire) a representative who will then do the political research and make informed decisions for you. For the AFR, our representatives will research local, state, and federal elections and can provide services such as sending you a pre-filled ballot on the recommended candidates that you should vote for. In addition, your representative acts as a political lobbyist in your stead. 
 
-What you have to do is a minimal amount of participation - voting en masse when the election comes. What is eliminated is the massive amount of time needed to research candidates, micromanage your elected officials' performance, or research the right advocacy groups to donate money to. Your ideal representative will do all the research for you. You unideal representative can be fired immediately through democratic processes. 
+What you have to do is a minimal amount of participation - voting en masse when the election comes. What is eliminated is the massive amount of time needed to research candidates, micromanage your elected officials' performance, or research the right advocacy groups to donate money to. Your ideal representative will do all the research for you. You unideal representative can be fired immediately. 
 
 
 ## It sounds more efficient just to directly donate to the groups I support. 
