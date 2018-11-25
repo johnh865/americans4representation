@@ -34,7 +34,7 @@ What you have to do is a minimal amount of participation - writing letters to yo
 
 1. It takes time and research to find the best groups that can maximize your return on investment. Only a tiny minority of people are sufficiently informed to make good choices on this front. 
 
-2. What special interests don't have is a large base of strategic voters
+2. What special interests don't have is a large base of strategic voters. The AFR has the potential to be more powerful than any single special interest group, because the AFR is more inclusive than any other advocacy group in America. 
 
 3. Ultimately nobody is a single-issue voter. The AFR will allow you to completely express your political viewpoints better than the ACLU, the Democratic Socialists, or the NRA. 
 
