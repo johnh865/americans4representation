@@ -30,9 +30,9 @@ A primary objective of the AFR is to **minimize the time needed to become politi
 What you have to do is a minimal amount of participation - voting en masse when the election comes. What is eliminated is the massive amount of time needed to research candidates, micromanage your elected officials' performance, or research the right advocacy groups to donate money to. Your ideal representative will do all the research for you. You unideal representative can be fired immediately. 
 
 
-## It sounds more efficient just to directly donate to the groups I support. 
+## *It sounds more efficient just to directly donate to the groups I support.* 
 
-1. It takes time and research to find the best groups that can maximize your return on investment. Only a tiny minority of people are sufficiently informed to make good choices on this front. 
+1. It takes time and research to find the best groups that can maximize your return on investment. Only a tiny minority of people are sufficiently informed to make good choices on this front. The AFR seeks to minimize research time by using proxy voting, delegative democracy, and democratic organization to minimize the time it takes to direct resources towards whatever interests you support. 
 
 2. What special interests don't have is a large base of strategic voters. The AFR has the potential to be more powerful than any single special interest group, because the AFR is more inclusive than any other advocacy group in America. 
 
