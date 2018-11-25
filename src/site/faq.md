@@ -12,7 +12,7 @@ layout: layouts/base.njk
 
 Actually there have been many similar groups historically. For example, the political machines of the 1900's and the labor unions of the 20th century. The difference between the AFR and those groups is open membership and full Democratic accountability of the leadership. 
 
-Moreover, repeatedly doing the same thing over and over again without achieving your goals is insanity. It's time for people to try new political strategy when the old methods have failed again and again. The special interest groups, the lobbyists, and the politics of today have gotten us to the highest levels of government dissatisfaction. We need a new way of organization people together, and if it's not the AFR, then it's going to have to be something else new and different. 
+Moreover, repeatedly doing the same thing over and over again without achieving your goals is insanity. It's time for people to try new political strategy when the old methods have failed again and again. The special interest groups, the lobbyists, and the politics of today have gotten us to the highest levels of government dissatisfaction. We need a new way of organizing people together, and if it's not the AFR, then it's going to have to be something else new and different. 
 
 
 #### *How can you get a bunch of different people to agree on anything???.*
