@@ -36,7 +36,7 @@ What you have to do is a minimal amount of participation - writing letters to yo
 
 2. What special interests don't have is a large base of strategic voters. The AFR has the potential to be more powerful than any single special interest group, because the AFR is more inclusive than any other advocacy group in America. 
 
-3. Ultimately nobody is a single-issue voter. The AFR will allow you to completely express your political viewpoints better than the ACLU, the Democratic Socialists, or the NRA. 
+3. Ultimately nobody is a single-issue voter. The AFR will allow you to completely express your political viewpoints better than the ACLU, the Democratic Socialists, or the NRA, because **you will construct the AFR platform directly**, according to your personal interests. 
 
 ## *How can the AFR succeed?*
 
