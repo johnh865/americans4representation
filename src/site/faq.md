@@ -8,17 +8,27 @@ layout: layouts/base.njk
 
 ## Some Frequency Asked Questions
 
-### *This scheme seems unlikely to work because it's never been tried.*
+#### *This scheme seems unlikely to work because it's never been tried.*
 
 Actually there have been many similar groups historically. For example, the political machines of the 1900's and the labor unions of the 20th century. The difference between the AFR and those groups is open membership and full Democratic accountability of the leadership. 
 
 Moreover, repeatedly doing the same thing over and over again without achieving your goals is insanity. It's time for people to try new political strategy when the old methods have failed again and again. The special interest groups, the lobbyists, and the politics of today have gotten us to the highest levels of government dissatisfaction. We need a new way of organization people together, and if it's not the AFR, then it's going to have to be something else new and different. 
 
 
-### How can you get a bunch of different people to agree on anything???
+#### *How can you get a bunch of different people to agree on anything???.*
 
 This group is founded on the hope that yes, Democracy can work. The alternative is the world we live in now, where big business seize more and more power, and corporate media drives "outrage culture" for the sake of increasing advertising revenue. It is truly a dark day if our group cannot function and Democracy fails. If Democracy fails on the small scale, how could Democracy hope to function in the nation-wide scale? I believe before we fully surrender our power to big business and multinational conglomerates, we need to try democracy first. 
 
 So how can we get alleged "political opponents" to agree with each other? Well, we Americans are not political operatives or pundits. We're neighbors and friends of each other. We're not opponents. We're not enemies. 
 
-Moreover, lots of research suggests the same. Most Americans tend not to be "ideologically motivated". Instead we are more "Group Identity" motivated. 
+Lots of research suggests the same. Most Americans tend not to be "ideologically motivated". Instead we are more "Group Identity" motivated. If we want to construct a bipartisan bridge, we need to construct a new group identity. This construction requires getting different folks of different ideologies into the same room, so we can escape our social media bubbles. This construction requires service or volunteerism to force different people together.
+
+Bridging the partisan divide is of course a tall order, and the AFR is unfortunately not a cure-all panacea. If nothing else, the I believe the AFR needs to be tried before it should be dismissed. 
+
+Finally, technology can aid us in creating consensus. Winner-take-all voting systems are not the only way to vote. Systems such as score voting, ranked-choice voting, and approval voting work to construct a superior consensus and promote more moderate viewpoints. 
+
+#### *I don't have time to Participate.*
+
+A primary objective of the AFR is to minimize the time needed to become politically informed and maximize your political impact. Technology such as proxy voting or "liquid" delegative voting systems allow you to choose (and hire) a representative who will then do the political research and make informed decisions for you. For the AFR, our representatives will research local, state, and federal elections and can provide services such as sending you a pre-filled ballot on the recommended candidates that you should vote for. In addition, your representative acts as a political lobbyist in your stead. 
+
+What you have to do is a minimal amount of participation - writing letters to your Congressmen when prompted by your representative, and then voting en masse when the election comes. What is eliminated is the massive amount of time needed to research candidates, micromanage your elected officials' performance, or research the right advocacy groups to donate money to. Your ideal representative will do all the research for you. You unideal representative can be fired immediately through democratic processes. 
