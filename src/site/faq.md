@@ -5,6 +5,7 @@ subtitle: The AFR FAQ
 layout: layouts/base.njk
 ---
 
+
 ## Some Frequency Asked Questions
 
 ### *This scheme seems unlikely to work because it's never been tried.*
