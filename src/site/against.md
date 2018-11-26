@@ -23,7 +23,7 @@ Lots of research suggests the same. Most Americans tend not to be "ideologically
 
 Technology can also aid us in creating consensus. Winner-take-all voting systems are not the only way to vote. Systems such as score voting, ranked-choice voting, and approval voting work to construct a superior consensus and promote more moderate viewpoints. 
 
-## *I don't have time to Participate.*
+## *I don't have time to participate.*
 
 A primary objective of the AFR is to **minimize the time needed to become politically informed and maximize your political impact**. Technology such as proxy voting or ["liquid" delegative voting systems](https://en.wikipedia.org/wiki/Delegative_democracy) allow you to choose (and hire) a representative who will then do the political research and make informed decisions for you. For the AFR, our representatives will research local, state, and federal elections and can provide services such as sending you a pre-filled ballot on the recommended candidates that you should vote for. In addition, your representative acts as a political lobbyist in your stead. 
 
