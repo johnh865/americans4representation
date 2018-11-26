@@ -23,7 +23,7 @@ The Americans For Representation propose a new approach to empower all Americans
 
 3. Advocate for **election reforms** in order to promote political equality and minimize all barriers to participation - advocating for reforms such as score voting, ranked choice voting, and participatory vouchers.
 
-4. Create a new organization that is **trustable and accountable** to its members by using cooperative, democratic elections to ensure the organization's leadership represents its members. 
+4. Create a new organization that is **trustable and accountable** to its members by using cooperative, democratic elections to ensure that the organization's leadership represents its members. 
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a *cooperatively owned political group.*
 
