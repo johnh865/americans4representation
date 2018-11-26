@@ -9,37 +9,31 @@ layout: layouts/base.njk
 
 We know something is wrong with government. The Economist calls our government a [“flawed democracy”](https://www.eiu.com/topic/democracy-index). According to [Gallup](https://news.gallup.com/opinion/polling-matters/211892/americans-budget-cuts.aspx), “Only 28% of Americans have a positive overall view of the US federal government… That was the lowest rating for any business or industry sector.” Mechanisms such as money in politics, the electoral college, and [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) have corrupted our democracy. But what can we do to fix America? 
 
-The **Americans For Representation (AFR)** is a nonprofit, cooperatively owned advocacy group that seeks to empower American voters by organizing people into collective power that our politicians cannot afford to ignore. With this power we seek to reform our democracy and repair America. We believe that:
+# Achieving True Grassroots Advocacy
 
+*The definition of insanity is doing the same thing over and over again and expecting a different result.* Concerned Americans go to the polls. Concerned Americans donate some money to a political campaign or advocacy group. Yet no substantive change ever seems to happen. Instead of failing over and over again, perhaps it's time for a new approach. 
 
-- We should strive for political equality for all Americans.
-- The barriers to democratic participation should be as low as possible.
-- We can make American government better
-- We can empower all Americans through education and strategic cooperation. 
+The Americans For Representation propose a new approach to empower all Americans:
 
-
-# Grassroots Driven Advocacy
-
-## Empowering You
-
-We have the ability to make a difference by voting and talking with our congressmen. But our individual efforts are not enough. To win battles, allies must organize into a cohesive, united coalition. To win in politics, we must:
-
-- **Organize together to strategically vote in unison at all levels of local, state, and federal government.**
-
-- **Send our true representatives to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.**
-
+1. Organize people to **strategically vote in unison at all local, state, and federal elections** in order to maximize political power. 
+2. Send **true representatives** to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage. 
+3. Advocate for **election reforms** in order to promote political equality and minimize all barriers to participation. 
+4. Create a new organization that is **trustable and accountable** to its members by using cooperative, democratic elections to ensure the organization's leadership represents its members. 
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a *cooperatively owned political group.*
 
 ## Cooperative Ownership
 
-The Americans for Representation (AFR) is a cooperatively owned political group that seeks to be a trustworthy advocate for all Americans. In order to create trust, the AFR gives its members [**democratic ownership**](https://en.wikipedia.org/wiki/Cooperative) of the organization.
+[Cooperative ownership](https://en.wikipedia.org/wiki/Cooperative) means that you and other members legally own the AFR rather than some private benefactor. Members elect, hire, and fire the leadership at will. Electoral power ensures that your interests will be advocated for rather than the interests of the leadership. Membership will also be open to all citizens who wish to participate. With cooperative ownership, you will drive the organization’s goals from the bottom up. 
 
-This means that you and other members legally own the AFR rather than some private benefactor. This means that all members elect, hire, and fire the leadership at will. Electoral power ensures that your interests will be advocated for rather than the interests of the leadership. Membership will also be open to all citizens who wish to participate. With cooperative ownership, you will drive the organization’s goals from the bottom up. 
+## Maximizing Power and Minimizing Effort
 
-## AFR Member Services
+The primary objective of the AFR Cooperative is to **maximize voter power, and minimize the time and effort**. The AFR understands that most people don't have the time to fully participate in politics. People don't have the time to trudge through local meetings and join local interest groups. People don't have the time to research advocacy groups, or review their records to understand their efficacy. Most people do not have time to learn about and research dozens of political offices and candidates. As a mental shortcut, many people merely vote straight party on the assumption that the party has already chosen a decent candidate - an assumption that is oftentimes wrong. 
 
-The AFR will provide several services for its members. It will: 
+Yet societies have already solved all of these problems through a process called **the division of labor**. We hire plumbers and electricians to work on our house. We hire engineers to design our buildings and bridges. Why don't we hire people to help sort out the complexities of politics? Well, we already do, but they're only affordable to the wealthiest of Americans, and they are called lobbyists. 
+
+The AFR aims to provide America with their own personal lobbyists - in other words, their own **true representatives** - people that can better express our political beliefs better than our officially elected politicians. True representatives will conduct political research on your behalf. True representatives will contact and negotiate with politicians on your behalf. True representatives can be fired immediately when they betray your trust. True representatives can *be anybody that you deem trustworthy* - your friends, your family, your heroes - whoever you can convince to participate. 
+
 
 - **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.
 
