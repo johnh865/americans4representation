@@ -88,4 +88,4 @@ Only with a new consensus can we can finally enact the necessary reforms that ou
 We want liberals. We want conservatives. We want libertarians. We want socialists. We want the selfish and the selfless. We want to empower everyone as a rising tide lifts all boats. We want your **participation**. If you think America can do better, please [join our group](/join)!
 
 
-[**Still not Convinced?**](/against)
+[**Still not Convinced or Suspicious?**](/against)
