@@ -50,4 +50,4 @@ Indeed, nobody can predict exactly how new voting reforms would work. That's why
 
 ## *Alternative Idea X seems like a better strategy*
 
-If you have good ideas, please email me! 
+We fully acknowledge that another approach might be superior. If you have good ideas, please email us! 
