@@ -32,9 +32,11 @@ What you have to do is a minimal amount of participation - voting en masse when 
 
 ## *It sounds more efficient just to directly donate to the groups I support.* 
 
+Sure, it would be more efficient if you are willing to devote massive amounts of time and effort to finding those groups and can measure their effectiveness. But for the other 99% of Americans, I believe we need some help.
+
 1. It takes time and research to find the best groups that can maximize your return on investment. Only a tiny minority of people are sufficiently informed to make good choices on this front. The AFR seeks to minimize research time by using proxy voting, delegative democracy, and democratic organization to minimize the time it takes to direct resources towards whatever interests you support. 
 
-2. What special interests don't have is a large base of strategic voters. The AFR has the potential to be more powerful than any single special interest group, because the AFR is more inclusive than any other advocacy group in America. 
+2. What special interests don't have is a large base of strategic voters. The AFR has the potential to be more powerful than any single special interest group, because the AFR is more inclusive than any other advocacy group in America. Moreover, the AFR is a platform to connect potential allies with one another. 
 
 3. Ultimately nobody is a single-issue voter. The AFR will allow you to completely express your political viewpoints better than the ACLU, the Democratic Socialists, or the NRA, because **you will construct the AFR platform directly**, according to your personal interests. 
 
@@ -45,3 +47,4 @@ There's of course no guarantees for success. **The only way for AFR to succeed i
 ## *New voting reforms sound too risky*
 
 Indeed, nobody can predict exactly how new voting reforms would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. Reforms will be deployed on the organizational level first to validate the reform's effectiveness.
+
