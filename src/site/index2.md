@@ -16,8 +16,11 @@ We know something is wrong with government. The Economist calls our government a
 The Americans For Representation propose a new approach to empower all Americans:
 
 1. Organize people to **strategically vote in unison at all local, state, and federal elections** in order to maximize political power. 
-2. Send **true representatives** to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage. 
-3. Advocate for **election reforms** in order to promote political equality and minimize all barriers to participation. 
+
+2. Send **true representatives** to speak to politicians and extract tit-for-tat exchanges in favor of our desired policy, using our collective votes and donations as leverage.
+
+3. Advocate for **election reforms** in order to promote political equality and minimize all barriers to participation - advocating for reforms such as score voting, ranked choice voting, and participatory vouchers.
+
 4. Create a new organization that is **trustable and accountable** to its members by using cooperative, democratic elections to ensure the organization's leadership represents its members. 
 
 This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a *cooperatively owned political group.*
@@ -28,12 +31,13 @@ This is the same strategy special interests use to lobby our government. It’s 
 
 ## Maximizing Power and Minimizing Effort
 
-The primary objective of the AFR Cooperative is to **maximize voter power, and minimize the time and effort**. The AFR understands that most people don't have the time to fully participate in politics. People don't have the time to trudge through local meetings and join local interest groups. People don't have the time to research advocacy groups, or review their records to understand their efficacy. Most people do not have time to learn about and research dozens of political offices and candidates. As a mental shortcut, many people merely vote straight party on the assumption that the party has already chosen a decent candidate - an assumption that is oftentimes wrong. 
+The primary objective of the AFR Cooperative is to **maximize voter power, and minimize time and effort**. The AFR understands that most people don't have the time to fully participate in politics. People don't have the time to trudge through local meetings and join local interest groups. People don't have the time to research advocacy groups, or review their records to understand their efficacy. Most people do not have time to learn about and research dozens of political offices and candidates. As a mental shortcut, many people merely vote straight party on the assumption that the party has already chosen a decent candidate - an assumption that is oftentimes wrong. 
 
-Yet societies have already solved all of these problems through a process called **the division of labor**. We hire plumbers and electricians to work on our house. We hire engineers to design our buildings and bridges. Why don't we hire people to help sort out the complexities of politics? Well, we already do, but they're only affordable to the wealthiest of Americans, and they are called lobbyists. 
+Yet societies have already solved all of these problems through a process called **the division of labor**. We hire plumbers and electricians to work on our house. We hire engineers to design our buildings and bridges. Why don't we hire people to help sort out the complexities of politics? Well, we already do, but they're only affordable to the wealthiest of Americans, and they are called *lobbyists*. 
 
-The AFR aims to provide America with their own personal lobbyists - in other words, their own **true representatives** - people that can better express our political beliefs better than our officially elected politicians. True representatives will conduct political research on your behalf. True representatives will contact and negotiate with politicians on your behalf. True representatives can be fired immediately when they betray your trust. True representatives can *be anybody that you deem trustworthy* - your friends, your family, your heroes - whoever you can convince to participate. 
+The AFR aims to provide America with their own personal lobbyists - in other words, their own **true representatives** - people that can better express our political beliefs better than our officially elected politicians. True representatives will conduct political research on your behalf. True representatives will contact and negotiate with politicians on your behalf. True representatives can be fired immediately when they betray your trust. True representatives can *be anybody that you deem trustworthy* - your friends, your family, your heroes - whoever you can convince to participate. And using a process called [*delegative democracy*](https://en.wikipedia.org/wiki/Delegative_democracy), true representatives can accumulate money and power sufficiently to influence politicians towards our demands. 
 
+In other words, the AFR shall: 
 
 - **Provide true democratic representation.** Through democratic ownership, AFR members will elect representative leadership - leaders that can be trusted - leaders with a much shorter leash than the politicians in Washington.
 
@@ -46,7 +50,6 @@ The AFR aims to provide America with their own personal lobbyists - in other wor
 The AFR will not exclusively support one party. The AFR will choose its support strategically with the goal of maximizing our members’ political power and influence. 
 
 <img src="/images/AFR_structure.png" alt="structure" style="width: 600px; max-width: 100%" />
-
 
 
 # Reforming Government
