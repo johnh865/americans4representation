@@ -48,3 +48,6 @@ There's of course no guarantees for success. **The only way for AFR to succeed i
 
 Indeed, nobody can predict exactly how new voting reforms would work. That's why an organization must test new ideas before implementation. The AFR is an ideal organization that can act as a testbed for **experimental democracy**. Reforms will be deployed on the organizational level first to validate the reform's effectiveness.
 
+## *Alternative Idea X seems like a better strategy*
+
+If you have good ideas, please email me! 
