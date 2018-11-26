@@ -1,6 +1,6 @@
 ---
 title: Americans For Representation
-subtitle: A Cooperatively Owned Advocacy Group
+subtitle: A New Approach to Change America
 layout: layouts/base.njk
 ---
 
