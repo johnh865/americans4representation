@@ -25,7 +25,7 @@ The Americans For Representation propose a new approach to empower Americans and
 
 4. Create a new organization that is **trustable and accountable** to its members by using cooperative, democratic elections to ensure that the organization's leadership represents its members. 
 
-This is the same strategy special interests use to lobby our government. It’s time for ordinary Americans to harness this power. However in order to create this power, we need a new political organization that Americans can trust. We need a *cooperatively owned political group.*
+In other words, the AFR seeks to give ordinary Americans the same powers special interests use to lobby our government. However in order to create this power, we need a new political organization that Americans can trust. We need a *cooperatively owned political group.*
 
 ## Cooperative Ownership
 
