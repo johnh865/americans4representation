@@ -13,6 +13,8 @@ We know something is wrong with government. The Economist calls our government a
 
 *The definition of insanity is doing the same thing over and over again and expecting a different result.* Concerned Americans go to the polls. Concerned Americans donate some money to a political campaign or advocacy group. Yet no substantive change ever seems to happen. Instead of failing over and over again, perhaps it's time for a new approach. 
 
+## The New Approach
+
 The Americans For Representation propose a new approach to empower all Americans:
 
 1. Organize people to **strategically vote in unison at all local, state, and federal elections** in order to maximize political power. 
