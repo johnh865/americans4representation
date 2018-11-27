@@ -30,7 +30,7 @@ layout: layouts/base.njk
 
 ## Political Tools
 
-* [Open Secrets](https://www.opensecrets.org) - Evil George Soros funded project that tracks PAC spending, political spending, and campaign money.  
+* [Open Secrets](https://www.opensecrets.org) - Tracks PAC spending, political spending, and campaign money.  
 
 * [Pro publica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Find out financial information about nonprofit organizations. 
 
