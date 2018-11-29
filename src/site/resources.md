@@ -34,7 +34,7 @@ layout: layouts/base.njk
 
 * [Pro publica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Find out financial information about nonprofit organizations. 
 
-* [Vote Smart](https://votesmart.org/) - This website attempts to help people find which candidates they agree with the most. 
+* [Vote Smart](https://votesmart.org/) - This website attempts to help people find which candidates they agree with the most. There are also databases on interest groups and legislation. 
 
 * [Vote Matrix](http://www.votematrix.com/) - Interesting for-profit website that also tries to help you construct your ideal ballot. 
 
