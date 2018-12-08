@@ -19,3 +19,6 @@ The Americans for Representation is a group dedicated to maximizing your politic
 8. **Lobby our politicians and make them an offer they cannot refuse - Do what we tell them to do, or get elected out of office.**
 
 If you want to maximize your political voice, join the Americans for Representation. We are dedicated to representing the true democratic will of Americans by following the rules above. We’re a nonpartisan organization, so everyone is invited! 
+
+
+## (Learn More)[learn]
