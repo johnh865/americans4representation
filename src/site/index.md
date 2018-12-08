@@ -5,10 +5,9 @@ layout: layouts/base.njk
 ---
 
 
-Making a Real Difference 
-=========================
+## Make a Real Difference 
 
-We’re a group dedicated to maximizing your political potential. Americans have the power to make a difference. The way to achieve power is to get organized with a simple process: 
+The Americans for Representation is a group dedicated to maximizing your political potential. Americans have the power to make a difference. The way to achieve power is to get organized with a simple process: 
 
 1. **Vote in every election, every time.**
 2. **Vote in every primary, every time.**
