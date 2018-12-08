@@ -10,7 +10,7 @@ We’re a group dedicated to maximizing your political potential. Americans have
 * Vote in every primary, every time. 
 * Vote in every local, state, and federal election, every time. 
 * Politics is a team sport. Get organized.
-* Use the DIVISION OF LABOR to maximize your impact. 
+* Use the **division of labor** to maximize your impact. 
 * Participate even if you don’t have time to participate, by delegating your wishes out to friends, leaders, and those you trust. 
 * Build an army of local voters that politicians can’t afford to ignore. 
 * Lobby our politicians and make them an offer they cannot refuse - Do what we tell them to do, or get elected out of office. 
