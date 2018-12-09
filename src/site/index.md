@@ -17,15 +17,13 @@ The Americans for Representation is a group dedicated to maximizing your politic
 
 3. Vote in every local, state, and federal election, every time.
 
-4. Politics is a team sport. Get organized.
+4. Politics is a team sport. Get organized. Use the *division of labor* to maximize your impact.
 
-5. Use the *division of labor* to maximize your impact.
+5. Participate even if you don’t have time to participate, by delegating your wishes out to friends, leaders, and those you trust.
 
-6. Participate even if you don’t have time to participate, by delegating your wishes out to friends, leaders, and those you trust.
+6. Build an army of local voters.
 
-7. Build an army of local voters that politicians can’t afford to ignore.
-
-8. Lobby our politicians and make them an offer they cannot refuse - Do what we tell them to do, or get elected out of office.
+7. Lobby our politicians and make them an offer they cannot refuse - Do what we tell them to do, or get elected out of office.
 
 
 If you want to maximize your political voice, join the Americans for Representation. We are dedicated to representing the true democratic will of Americans by following the rules above. We’re a nonpartisan organization, so everyone is invited! 
