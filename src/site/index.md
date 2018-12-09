@@ -9,7 +9,7 @@ layout: layouts/base.njk
 
 The Americans for Representation is a group dedicated to maximizing your political potential. Americans have the power to make a difference. The way to achieve power is to get organized with a simple process:
 
-## The Rules
+## Steps to Success
 
 1. Vote in every election, every time.
 
