@@ -13,7 +13,7 @@ The Americans for Representation is a group dedicated to maximizing your politic
 
 1. Vote in every election, every time.
 
-2. Vote in every primary, every time.
+2. Vote in every [primary election](https://en.wikipedia.org/wiki/Primary_elections_in_the_United_States), every time.
 
 3. Vote in every local, state, and federal election, every time.
 
