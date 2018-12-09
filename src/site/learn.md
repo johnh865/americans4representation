@@ -11,7 +11,7 @@ We know something is wrong with government. The Economist calls our government a
 
 # Achieving True Grassroots Advocacy
 
-*The definition of insanity is doing the same thing over and over again and expecting a different result.* Concerned Americans go to the polls. Concerned Americans donate some money to a political campaign or advocacy group. Yet no substantive change ever seems to happen. Our participation is rewarded with a gridlocked government year-after-year that fails to act on immigration, environmental conservation, healthcare, tax reform, or any other issue that matters. Instead of failing over and over again, perhaps it's time for a new approach. 
+*The definition of insanity is doing the same thing over and over again and expecting a different result.* Concerned Americans go to the polls. Concerned Americans donate some money to a political campaign or advocacy group. Yet no substantive change ever seems to happen. Our participation is rewarded with a gridlocked government year-after-year that fails to act on immigration, environmental conservation, healthcare, tax reform, or any other issue that matters. Elections may be won, but we are still losing the war. Instead of failing over and over again, perhaps it's time for a new approach. 
 
 ## The New Approach
 
