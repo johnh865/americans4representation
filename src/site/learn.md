@@ -1,6 +1,6 @@
 ---
 title: Americans For Representation
-subtitle: A Cooperatively Owned Advocacy Group
+subtitle: Cooperatively Owned Advocacy
 layout: layouts/base.njk
 ---
 
