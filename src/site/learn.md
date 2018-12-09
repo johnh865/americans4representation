@@ -15,7 +15,7 @@ We know something is wrong with government. The Economist calls our government a
 
 ## The New Approach
 
-The Americans For Representation propose a new approach to empower Americans and force our politicians to do what we want. 
+The Americans For Representation (or AFR) propose a new approach to empower Americans and force our politicians to do what we want. 
 
 1. Organize people to **strategically vote in unison at all local, state, and federal elections** in order to maximize political power. 
 
