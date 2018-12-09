@@ -19,7 +19,7 @@ The Americans for Representation is a group dedicated to maximizing your politic
 
 4. Politics is a team sport. Get organized. Use the *division of labor* to maximize your impact.
 
-5. Participate even if you don’t have time to participate, by delegating your wishes out to friends, leaders, and those you trust.
+5. Participate even if you don’t have time to participate. Delegate your wishes out to friends, leaders, and those you trust.
 
 6. Build an army of local voters.
 
