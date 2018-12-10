@@ -30,4 +30,4 @@ Unfortunately, nothing in the world is for free. Nonprofit organizations are typ
 - Organizational duties such as running meetings, paying the bills, etc
 - And any other labor we must perform. 
 
-How much will they be paid? And how much do members need to pay to keep everything going? All of these issues are decided democratically. We need to decide how much we value political organization, and pay the price.  
+How much will they be paid? And how much do members need to pay to keep everything going? All of these issues are decided democratically. We need to decide how much we value political organization, and pay the price accordingly.  
