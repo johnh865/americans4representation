@@ -22,7 +22,7 @@ We are looking to grow a Houston-based coalition. Houstonians, if you want to ma
 
 ## So how much is this going to cost? 
 
-Unfortunately, nothing in the world is for free. Nonprofit organizations are typically driven through unpaid volunteer labor and donations. The price is that only the well-off participate, and the well-off drive the agenda using their purse-strings. The AFR however seeks to **pay our members and staff for their labor**. The AFR wishes to create a political organization affordable to everyone - and that means that people need to be paid for their time. Members will be paid for:
+Unfortunately nothing in the world is for free. Nonprofit organizations are typically driven through unpaid volunteer labor and donations. The price is that only the well-off participate, and the well-off drive the agenda using their purse-strings. The AFR however seeks to **pay our members and staff for their labor**. The AFR wishes to create a political organization affordable to everyone - and that means that people need to be paid for their time. Members will be paid for:
 
 - Recruiting more members
 - Performing political research
