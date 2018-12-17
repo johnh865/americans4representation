@@ -30,3 +30,9 @@ If you want to maximize your political voice, join the **Americans for Represent
 
 
 # [Learn More](/learn)
+
+
+# Meeting Schedule
+
+- January 27, 2019 -- Sunday 7:00 PM, at Brasil Cafe ([2604 Dunlavy St.](https://goo.gl/maps/ERMd6mPzeiF2))
+- February 25, 2019 -- Sunday 7:00 PM, Location To-be-Announced.
