@@ -14,7 +14,7 @@ The **Americans for Representation** is a group dedicated to maximizing your pol
 
 2. **Vote** in every [**primary election**](https://en.wikipedia.org/wiki/Primary_elections_in_the_United_States), every time.
 
-4. **Politics is a team sport. Get organized.** Use the *division of labor* to maximize your impact.
+4. **Politics is a team sport. Get organized.** Use the *division of labor* to strategically coordinate your voting. 
 
 5. Participate even if you don’t have time to participate. **Delegate** your wishes out to friends, leaders, and those you trust.
 
