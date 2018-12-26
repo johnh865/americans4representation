@@ -12,7 +12,7 @@ The **Americans for Representation** is a group dedicated to maximizing your pol
 
 1. **Vote** in every **local, state,** and **federal election**, every time.
 
-2. **Vote** in every [**primary election**](https://en.wikipedia.org/wiki/Primary_elections_in_the_United_States), every time.
+2. **Vote** in every [**party primary election**](https://en.wikipedia.org/wiki/Primary_elections_in_the_United_States), every time.
 
 4. **Politics is a team sport. Get organized.** Use the *division of labor* to strategically coordinate your voting. 
 
