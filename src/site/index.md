@@ -11,11 +11,9 @@ The Americans for Representation is a group dedicated to maximizing your politic
 
 ## The Steps to Success
 
-1. Vote in every election, every time.
+1. Vote in every local, state, and federal election, every time.
 
 2. Vote in every [primary election](https://en.wikipedia.org/wiki/Primary_elections_in_the_United_States), every time.
-
-3. Vote in every local, state, and federal election, every time.
 
 4. Politics is a team sport. Get organized. Use the *division of labor* to maximize your impact.
 
@@ -26,7 +24,9 @@ The Americans for Representation is a group dedicated to maximizing your politic
 7. Lobby our politicians and make them an offer they cannot refuse - Do what we tell them to do, or get elected out of office.
 
 
-If you want to maximize your political voice, join the **Americans for Representation**. We are dedicated to representing the true democratic will of Americans by following the rules above. We’re a nonpartisan organization, so everyone is invited to join. 
+
+
+Make a measurable difference by joining the **Americans for Representation**. We are dedicated to representing the true democratic will of Americans. We’re a nonpartisan organization, so everyone is invited! 
 
 
 # [Learn More](/learn)
