@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 
 
-The **Americans for Representation** is a group dedicated to maximizing your political power.
+The **Americans for Representation** is a group dedicated to maximizing your political power in order to repair our democracy. 
 
 ## Politics will affect you, your friends, and your family whether you personally participate or not. Reclaim your POWER rightfully due to you with a simple process:
 
