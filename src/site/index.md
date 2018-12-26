@@ -1,6 +1,6 @@
 ---
 title: Americans For Representation
-subtitle: A Guide to True Political Participation
+subtitle: 
 layout: layouts/base.njk
 ---
 
