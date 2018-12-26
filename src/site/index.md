@@ -5,11 +5,10 @@ layout: layouts/base.njk
 ---
 
 
-## Make a Real Difference 
 
-The Americans for Representation is a group dedicated to maximizing your political potential. Americans have the power to make a difference. The way to achieve power is to get organized with a simple process:
+The Americans for Representation is a group dedicated to maximizing your political power.
 
-## The Steps to Success
+## Politics will affect you, your friends, and your family whether you personally participate or not. RECLAIM your political power with a simple process:
 
 1. Vote in every local, state, and federal election, every time.
 
