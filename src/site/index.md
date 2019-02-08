@@ -5,11 +5,11 @@ layout: layouts/base.njk
 ---
 
 
-Imagine a government where our politicians actually represent us and our values. 
+**Imagine a government where our politicians actually represent us and our values.**
 
-Imagine a government where we have more than two flavors of “democrat” and “republican,” where we have a true market of politicians to choose from. 
+**Imagine a government where we have more than two flavors of “democrat” and “republican,” where we have a true market of politicians to choose from.**
 
-Imagine a government that the people can trust, because the people have true power over our politicians. 
+**Imagine a government that the people can trust, because the people have true power over our politicians.**
 
 
 This isn’t a pipe dream. True representation can be achieved right now when ordinary Americans come together to fight for their rights. JOIN THE AMERICANS FOR REPRESENTATION, where we choose our leaders from our members, and our members are paid to lead us. 
