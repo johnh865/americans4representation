@@ -15,9 +15,9 @@ This isn’t a pipe dream. True representation can be achieved right now when or
 # POLITICS IS A TEAM SPORT. 
 ## Join a team by volunteering with the Americans for Representation!
 
-* Internet based decision making -- [Loomio](https://www.loomio.org/g/X2nexBho/americans-for-representation)
-* Our Facebook group -- [Facebook](https://www.facebook.com/groups/americans4rep)
-* Email us any time -- [americans4representation@gmail.com] -- [johnhuang865@gmail.com]
+* Internet based decision making -- [https://www.loomio.org/g/X2nexBho/americans-for-representation](https://www.loomio.org/g/X2nexBho/americans-for-representation)
+* Our Facebook group -- [https://www.facebook.com/groups/americans4rep](https://www.facebook.com/groups/americans4rep)
+* Email us any time -- [americans4representation@gmail.com](americans4representation@gmail.com) -- [johnhuang865@gmail.com](johnhuang865@gmail.com)
 
 ## How can you help? 
 
