@@ -10,14 +10,14 @@ layout: layouts/base.njk
 
 ### Imagine a government that the people can trust, because the people have real power over the politicians. 
 
-### This isn’t a pipe dream. True representation can be achieved right now when ordinary Americans come together to fight for their rights. JOIN THE **AMERICANS FOR REPRESENTATION**, a member owned organization. 
+This isn’t a pipe dream. True representation can be achieved right now when ordinary Americans come together to fight for their rights. JOIN THE **AMERICANS FOR REPRESENTATION**, a member owned organization. 
 
 # POLITICS IS A TEAM SPORT. 
 ## Join a team by volunteering with the Americans for Representation!
 
-* Internet based decision making -- https://www.loomio.org/g/X2nexBho/americans-for-representation
-* Our Facebook group -- https://www.facebook.com/groups/americans4rep
-* Email us any time -- americans4representation@gmail.com -- johnhuang865@gmail.com
+* Internet based decision making -- [Loomio](https://www.loomio.org/g/X2nexBho/americans-for-representation)
+* Our Facebook group -- [Facebook](https://www.facebook.com/groups/americans4rep)
+* Email us any time -- [americans4representation@gmail.com] -- [johnhuang865@gmail.com]
 
 ## How can you help? 
 
